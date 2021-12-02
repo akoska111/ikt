@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="index.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Mátrai Ákos</h1>
+
+    <div>
+        <div class="brendon">
+            <a href="https://www.youtube.com/watch?v=mIx2kMgYgqw">
+            <img src="letöltés.jpg" alt="brendoo">
+            </a>
+        </div>
+    </div>
+    <h2>Szendvics recept</h2>
+    <ol>
+        <li>kenyér</li>
+        <li>sajt</li>
+        <li>vaj</li>
+        <li>parizer</li>
+        <li>saláta</li>
+    </ol>
+    <table border=1>
+        <tr>
+        <td></td><td>Hétfő</td><td>Kedd</td><td>Szerda</td><td>Csütörtök</td><td>Péntek</td>
+        </tr>
+        <tr>
+        <td>0. óra</td><td>-</td><td>-</td><td>-</td><td>inftáv</td><td>tesi</td>
+        </tr>
+        <tr>
+        <td>1. óra</td><td>-</td><td>matek</td><td>-</td><td>inftáv</td><td>tesi</td>
+        </tr>
+        <tr>
+        <td>2. óra</td><td>termtud</td><td>ikt</td><td>matek</td><td>inftáv</td><td>matek</td>
+        </tr>
+        <tr>
+        <td>3. óra</td><td>nyelvtan</td><td>of</td><td>tesi</td><td>történelem</td><td>történelem</td>
+        </tr>
+        <tr>
+        <td>4. óra</td><td>matek</td><td>termtud</td><td>termtud</td><td>nyelvtan</td><td>angol</td>
+        </tr>
+        <tr>
+        <td>5. óra</td><td>angol</td><td>irodalom</td><td>irodalom</td><td>tesi</td><td>irodalom</td>
+        </tr>
+        <tr>
+        <td>6. óra</td><td>dkt</td><td>angol</td><td>történelem</td><td>matek</td><td>-</td>
+        </tr>
+        <tr>
+        <td>7. óra</td><td>dkt</td><td>palap</td><td>angol</td><td>-</td><td>-</td>
+        </tr>
+        <tr>
+        <td>8. óra</td><td>-</td><td>palap</td><td>ikt</td><td>-</td><td>-</td>
+        </tr>
+        </table>
+        
+
+
+</body>
+</html>
